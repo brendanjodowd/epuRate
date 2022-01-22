@@ -65,7 +65,7 @@ a:hover {
 }
 
 /* ------ Don't display on small media */
-@media (max-width: 1400px) {
+@media (max-width: 1000px) {
   #TOC {
     width: auto;
     display: none;
